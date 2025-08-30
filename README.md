@@ -22,18 +22,17 @@ pip install pygame
 
 ## Usage
 
-1. Place your outro song (e.g., `outro_song.mp3`) in a folder of your choice.
-2. Update the path in the script:
+1. Update the path in the script:
 
    ```python
    song_path = os.path.join("path", "to", "outro_song.mp3")
    ```
-3. Run the script from the terminal:
+2. Run the script from the terminal:
 
    ```bash
    python shutdown_outro.py
    ```
-4. Type `quit` to start the sequence.
+3. Type `quit` to start the sequence.
 
 ## How It Works
 
